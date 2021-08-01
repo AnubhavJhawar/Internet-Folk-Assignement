@@ -20,4 +20,4 @@ To Visit App:
 
 `localhost:3000/ideas`  
 
-[link to netify](https://shortlybyanubhavjhawar.netlify.app)
+[link To View Project-> ](https://shortlybyanubhavjhawar.netlify.app)
