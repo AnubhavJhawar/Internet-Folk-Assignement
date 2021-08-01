@@ -1,9 +1,26 @@
-# Shortly
+## The Internet folks Assignment
 
-[Link to my solution](https://ibndaanis-shortly.netlify.app/)
 
-[Link to the challenge](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G)
+## Project Status
+(Completed)
 
-## Preview:
+## Installation and Setup Instructions
 
-![Preview](./public/images/preview.png)
+Clone this repository. You will need `node` and `npm` installed globally on your machine.  
+
+To run the code:
+
+`npm install`  
+
+To Start Server:
+
+`npm start`  
+
+To Visit App:
+
+`localhost:3000/ideas`  
+
+link to netify:
+
+`https://shortlybyanubhavjhawar.netlify.app`
+
